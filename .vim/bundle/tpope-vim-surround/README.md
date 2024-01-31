@@ -56,3 +56,5 @@ The code for this project was written by Nagl Patrick.
 ## Log4J
 
 For the log4j2 configuration there is already a template in main/resources to find.
+
+I will add a change now for git-subtree testing :)
