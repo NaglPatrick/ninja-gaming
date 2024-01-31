@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3697502f-723b-4f50-b915-fff5ece0605b" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/ambient.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/client/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/client/matchers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/client/nodes/0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/client/nodes/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/client/nodes/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/client/nodes/3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/client/nodes/4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/client/nodes/5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/root.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/generated/server/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/non-ambient.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/types/route_meta_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/types/src/routes/$types.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/types/src/routes/about/$types.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/types/src/routes/sverdle/$types.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.svelte-kit/types/src/routes/sverdle/how-to-play/$types.d.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Zl978Fit4g6UgrDZU0FmUFU7T3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/patrick/Demos/svelte tutorial/ninja-gaming/static",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/patrick/Demos/svelte tutorial/ninja-gaming/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/routes" />
+      <recent name="$PROJECT_DIR$/src/routes/about" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3697502f-723b-4f50-b915-fff5ece0605b" name="Changes" comment="" />
+      <created>1702985628834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702985628834</updated>
+      <workItem from="1702985629864" duration="4945000" />
+      <workItem from="1703059647628" duration="4655000" />
+      <workItem from="1703087612804" duration="5000" />
+      <workItem from="1703143670466" duration="602000" />
+      <workItem from="1703256454095" duration="31000" />
+      <workItem from="1703752445767" duration="545000" />
+      <workItem from="1703759198492" duration="737000" />
+      <workItem from="1706694672520" duration="3318000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1706697729452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706697729452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
